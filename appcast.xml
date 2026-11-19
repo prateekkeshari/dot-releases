@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dot Updates</title>
+    <description>Dot app updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 2.4.3</title>
+      <pubDate>Mon, 02 Nov 2026 21:11:57 +0000</pubDate>
+      <sparkle:version>243</sparkle:version>
+      <sparkle:shortVersionString>2.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/prateekkeshari/dot-releases/releases/download/v2.4.3/Dot-2.4.3.dmg"
+        type="application/octet-stream"
+        length="7973279"
+        sparkle:edSignature="6l/9cGaK1/LG6KPG2xyMESDcxa4EIME3HhCHcGlN+MmxGH0dFWmeDKkl6XJt+EAhsA9skLpVXnxwsSs2baZ2Dw==" />
+    </item>
+  </channel>
+</rss>
